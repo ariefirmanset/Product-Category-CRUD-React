@@ -1,0 +1,14 @@
+# Product Category CRUD with React
+
+## Install
+```bash
+git clone https://github.com/ariefirmanset/Product-Category-CRUD-React.git
+cd Product-Category-CRUD-React
+npm install
+npm run dev
+
+Dependencies:
+React
+Bootstrap 5
+Bootstrap Icons
+SweetAlert2
